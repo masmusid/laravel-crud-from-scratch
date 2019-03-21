@@ -9,6 +9,6 @@ We know that create, read, update, and delete (CRUD) are the four basic function
 
 ## LICENCE
 
-You can download the project, modify the code and use it anywhere you want. Happy Coding :)
+You can download the project, modify the code and use it anywhere you want without re-posting to your blog. Happy Coding :)
 
 Thank you.
